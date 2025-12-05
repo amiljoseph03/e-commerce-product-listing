@@ -1,5 +1,6 @@
 import { products } from '@/data/products';
 import './styles/home.css';
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -12,7 +13,12 @@ export default function Home() {
             <img src={product.image} alt={product.name} />
             <h2>{product.name}</h2>
             <p>₹ {product.price}</p>
-            <button>View Details</button>
+
+            {/* <button>View Details</button> */}
+
+            <Link href={`/products/${product.id}`}>
+              <button>View Details</button>
+            </Link>
           </div>
         ))}
       </div>
