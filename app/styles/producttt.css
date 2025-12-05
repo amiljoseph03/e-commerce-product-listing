@@ -42,15 +42,25 @@
 .one button {
   display: block;               
   margin: 10px auto 0 auto;   
+  padding: 12px 25px;          
   font-size: 18px;
+  font-weight: 600;           
   border: none;
-  border-radius: 8px;
-  background: #ff5c5c;
-  color: white;
+  border-radius: 12px;        
+  background: linear-gradient(135deg, #14b268, #1dd88b); 
+  color: #fff;                 
   cursor: pointer;
-  transition: 0.3s ease;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2); 
+  transition: all 0.3s ease;
 }
 
 .one button:hover {
-  background: #e04848;
+  background: linear-gradient(135deg, #1dd88b, #14b268);
+  transform: translateY(-2px); 
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+
+.one button:active {
+  transform: translateY(1px);  
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
