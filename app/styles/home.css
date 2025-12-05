@@ -13,7 +13,8 @@ body {
 h1 {
   text-align: center;
   margin-bottom: 30px;
-  color: #491222;
+  /* color: hsla(348, 92%, 44%, 0.612); */
+  color: rgb(201, 17, 17);
 }
 
 .products {
@@ -59,12 +60,12 @@ h1 {
 h2{
 text-align: center;
   margin-bottom: 30px;
-  color: #0d8db4;
+  color: #06495e;
 }
 p{
     text-align: center;
   margin-bottom: 30px;
-  color: #338f47;
+  color: #0e1d11;
 
 }
 
@@ -73,8 +74,8 @@ p{
   .home-section {
     position: relative;
     width: 100%;
-    height: 100vh; /* fullscreen */
-    background: url('https://example.com/your-image.jpg') center/cover no-repeat;
+    height: 100vh; 
+    background: url('https://i.pinimg.com/736x/89/5b/ef/895beff0b07f1f827a5a3613241a155c.jpg') center/cover no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -83,7 +84,7 @@ p{
   .overlay {
     text-align: center;
     color: white;
-    background-color: rgba(0, 0, 0, 0.4); /* semi-transparent overlay */
+    /* background-color: rgba(0, 0, 0, 0.4);  */
     padding: 20px;
     border-radius: 10px;
   }

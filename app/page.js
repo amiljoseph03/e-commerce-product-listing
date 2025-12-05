@@ -11,7 +11,7 @@ export default function Home() {
   <div class="overlay">
     <h1>NEST - For Your Home Decor</h1>
     <h2>🛒 Let's Shop</h2>
-    <p>Discover beautiful home decor items to add style and warmth to your space. Browse our collection and find the perfect pieces for your home.</p>
+    <p>Browse our collection and find the perfect pieces for your home.</p>
     <a href="/products" class="shop-btn">Shop Now</a>
   </div>
 </section>
