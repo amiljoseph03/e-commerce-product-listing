@@ -60,7 +60,7 @@
 .back-home-btn {
   margin-top: 20px;
   padding: 10px 20px;
-  background-color: #007bff;
+  background-color: #83113d;
   border: none;
   border-radius: 5px;
   color: white;
@@ -70,5 +70,5 @@
 }
 
 .back-home-btn:hover {
-  background-color: #0069d9;
+  background-color: #d90000;
 }
