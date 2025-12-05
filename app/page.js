@@ -9,7 +9,8 @@ export default function Home() {
       <h1>🛒 Let's Shop</h1> */}
 <section class="home-section">
   <div class="overlay">
-    <h1>NEST - For Your Home Decor</h1>
+    <h1>NEST </h1>
+     <h1> For Your Home Decor</h1>
     <h2>🛒 Let's Shop</h2>
     <p>Browse our collection and find the perfect pieces for your home.</p>
     <a href="/products" class="shop-btn">Shop Now</a>
