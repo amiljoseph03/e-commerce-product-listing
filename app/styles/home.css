@@ -67,3 +67,52 @@ p{
   color: #338f47;
 
 }
+
+
+
+  .home-section {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* fullscreen */
+    background: url('https://example.com/your-image.jpg') center/cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .overlay {
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.4); /* semi-transparent overlay */
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  .overlay h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+  }
+
+  .overlay h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+
+  .overlay p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+
+  .shop-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff7f50;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+
+  .shop-btn:hover {
+    background-color: #ff6333;
+  }

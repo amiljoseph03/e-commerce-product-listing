@@ -24,6 +24,46 @@ export const products = [
       'Elegant deer hand table lamp – a beautifully crafted decorative light featuring a delicate deer holding a glowing orb. Perfect for adding a warm, cozy ambiance to any room or as a unique accent piece for your home décor.',
     image: '/p3.jpg',
   },
+  {
+    id: 4,
+    name: 'lighnig kitten',
+    price: 300,
+    description:
+      'Elegant deer hand table lamp – a beautifully crafted decorative light featuring a delicate deer holding a glowing orb. Perfect for adding a warm, cozy ambiance to any room or as a unique accent piece for your home décor.',
+    image: '/p3.jpg',
+  },
+  {
+    id: 5,
+    name: 'lighnig kitten',
+    price: 300,
+    description:
+      'Elegant deer hand table lamp – a beautifully crafted decorative light featuring a delicate deer holding a glowing orb. Perfect for adding a warm, cozy ambiance to any room or as a unique accent piece for your home décor.',
+    image: '/p3.jpg',
+  },
+  {
+    id: 6,
+    name: 'lighnig kitten',
+    price: 300,
+    description:
+      'Elegant deer hand table lamp – a beautifully crafted decorative light featuring a delicate deer holding a glowing orb. Perfect for adding a warm, cozy ambiance to any room or as a unique accent piece for your home décor.',
+    image: '/p3.jpg',
+  },
+  {
+    id: 7,
+    name: 'lighnig kitten',
+    price: 300,
+    description:
+      'Elegant deer hand table lamp – a beautifully crafted decorative light featuring a delicate deer holding a glowing orb. Perfect for adding a warm, cozy ambiance to any room or as a unique accent piece for your home décor.',
+    image: '/p3.jpg',
+  },
+  {
+    id: 8,
+    name: 'lighnig kitten',
+    price: 300,
+    description:
+      'Elegant deer hand table lamp – a beautifully crafted decorative light featuring a delicate deer holding a glowing orb. Perfect for adding a warm, cozy ambiance to any room or as a unique accent piece for your home décor.',
+    image: '/p3.jpg',
+  },
 ];
 
 
