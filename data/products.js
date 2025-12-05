@@ -30,7 +30,7 @@ export const products = [
     price: 300,
     description:
       'Elegant deer hand table lamp – a beautifully crafted decorative light featuring a delicate deer holding a glowing orb. Perfect for adding a warm, cozy ambiance to any room or as a unique accent piece for your home décor.',
-    image: '/p3.jpg',
+    image: '/p7.jpg',
   },
   {
     id: 5,
